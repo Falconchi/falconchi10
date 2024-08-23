@@ -1,8 +1,0 @@
-vless://80b5cdce-3397-4526-af1a-583ea84855f5@188.245.108.227:443?security=reality&encryption=none&pbk=LmpycOrNa_tTeh1tncKhOlo190nBSYgGNBi7sIVLew8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mdundo.com&sid=7edcfaf1#%40argo_vpnn
-
-
-vless://f8a18f07-8d7f-401c-8fc4-008599518ebc@www.parsvds.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#argo_vpnn
-
-vless://f8a18f07-8d7f-401c-8fc4-008599518ebc@185.146.173.252:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#argo_vpnn
-
-vless://1ee7ecb4-847c-4ba5-9a45-3ac65b12b105@zula.ir:2095?type=ws&path=%2F%40custom_config%3Fed%3D1024&host=0.Soft98.ir.clOudFlare.com.wWw.speeDtest.nEt.xn--mgb4a8a84b.eNded-lAtin.iR.&security=none#@argo_vpnn
